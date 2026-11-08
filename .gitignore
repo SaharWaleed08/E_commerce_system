@@ -1,0 +1,31 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Build files
+build/
+.gradle/
+
+# Secrets and credentials
+application-local.properties
+application-local.yml
